@@ -44,8 +44,8 @@ function App() {
           <TransactoinContainer />
         </div>
       </div>
-      <div>Arman Ali</div>
-      <div>Arman khan</div>
+      <div>Arman aaaaaaaaaaaa Ali</div>
+      <div>Arman vvvvvvvvvvvvvvvvvvvvvvv khan</div>
     </div>
   );
 }
