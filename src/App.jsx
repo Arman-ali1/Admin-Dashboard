@@ -45,6 +45,7 @@ function App() {
         </div>
       </div>
       <div>Arman Ali</div>
+      <div>Arman khan</div>
     </div>
   );
 }
